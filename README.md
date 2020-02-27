@@ -2,18 +2,18 @@ This is the repository for the ESIP Lab Summer Incubator 2019 Project: "Scalable
 
 The link to the proposal is [here](https://www.esipfed.org/wp-content/uploads/2019/08/ESIP2019-SWEEP-tan.pdf).
 
-###Contents of the repository###
+### Contents of the repository ###
 - Example workflow notebook for retrieving Planet Imagery
 - Example workflow notebook for retrieving Landsat imagery
 - Example workflow notebook for calculating phenology from NDVI
 
-###Example serveless setup on AWS Lambda###
+### Example serveless setup on AWS Lambda ###
 
 ![](/images/planet_workflow.png)
 
 Note that each square in the image above represents a short Python code that is executed in Lambda.
 
-####Deliverables completed
+#### Deliverables completed
 1. Develop workflow on AWS 
 We executed the codes in the Notebook repository using AWS Lambda and AWS Fargate for longer run times. The code in the notebooks should as standalone Python scripts without the use of AWS Lambda. 
 
@@ -23,9 +23,9 @@ All results are available in this presentation: https://docs.google.com/presenta
 3. Conference travel, presentations and reports to the 2020 ESIP Winter meeting 
 We presented our results from No.2 at the ESIP 2020 Winter Meeting
 
-####Measures of outreach
+#### Measures of outreach
 
 We are currently working on expanding the scope of this project i.e. using serverless processes to working on identifying greening of Arctic lakes. 
 
-####Impact of project 
+#### Impact of project 
 We are currently working on a manuscript to be submitted to the Journal of Remote Sensing
