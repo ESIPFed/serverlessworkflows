@@ -15,7 +15,7 @@ Note that each square in the image above represents a short Python code that is 
 
 #### Deliverables completed
 1. Develop workflow on AWS 
-We executed the codes in the Notebook repository using AWS Lambda and AWS Fargate for longer run times. The code in the notebooks should as standalone Python scripts without the use of AWS Lambda. 
+We executed the codes in the Notebook repository using AWS Lambda and AWS Fargate (container orchestration) for longer run times. The code in the notebooks should as standalone Python scripts without the use of AWS Lambda. See the image above for how each code snippet corresponds to a Lambda function. 
 
 2. Test and validate workflow with Planet imagery and in-situ data
 All results are available in this presentation: https://docs.google.com/presentation/d/1AlCy55YtAT0OVF7tbH1M6R792Eu2RTtcEoDESteAHbM/edit#slide=id.p1
@@ -25,7 +25,7 @@ We presented our results from No.2 at the ESIP 2020 Winter Meeting
 
 #### Measures of outreach
 
-We are currently working on expanding the scope of this project i.e. using serverless processes to working on identifying greening of Arctic lakes. 
+We are currently working on expanding the scope of this project i.e. using serverless processes to working on identifying greening of Arctic lakes. We have also presented at the ESIP 2020 Winter Meeting and the [12th IEEE/ACM International Conference](https://www.researchgate.net/publication/337700445_SWEEP_Accelerating_Scientific_Research_Through_Scalable_Serverless_Workflows)
 
 #### Impact of project 
 We are currently working on a manuscript to be submitted to the Journal of Remote Sensing
