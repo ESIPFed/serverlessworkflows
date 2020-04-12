@@ -2,6 +2,8 @@ This is the repository for the ESIP Lab Summer Incubator 2019 Project: "Scalable
 
 The link to the proposal is [here](https://www.esipfed.org/wp-content/uploads/2019/08/ESIP2019-SWEEP-tan.pdf).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ESIPFed/serverlessworkflows/master)
+
 ### Contents of the repository ###
 - Example workflow notebook for retrieving Planet Imagery
 - Example workflow notebook for retrieving Landsat imagery
